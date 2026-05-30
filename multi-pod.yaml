@@ -10,7 +10,7 @@ spec:
 
   - name: hospital-app-container
 
-    image: mohitdocker241/hospital-app:v1
+    image: anandaditya955/hospital-app:v3
 
     ports:
       - containerPort: 5000
