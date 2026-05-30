@@ -23,7 +23,7 @@ spec:
 
       - name: hospital-app-container
 
-        image: anandaditya955/hospital-app:v3
+        image: anandaditya955/hospital-app:v4
 
         ports:
           - containerPort: 5000
